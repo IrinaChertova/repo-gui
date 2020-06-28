@@ -1,1 +1,1 @@
-pero-gui
+repo-gui
